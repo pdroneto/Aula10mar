@@ -1,0 +1,16 @@
+C:\repos\testegit7\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+C:\repos\testegit7\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+C:\repos\testegit7\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+C:\repos\testegit7\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+C:\repos\testegit7\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+C:\repos\testegit7\HelloWorld\bin\Debug\net5.0\ref\HelloWorld.dll
+C:\repos\testegit7\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+C:\repos\testegit7\HelloWorld\obj\Debug\net5.0\HelloWorld.csprojAssemblyReference.cache
+C:\repos\testegit7\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\testegit7\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+C:\repos\testegit7\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+C:\repos\testegit7\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\repos\testegit7\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+C:\repos\testegit7\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
+C:\repos\testegit7\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+C:\repos\testegit7\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache
